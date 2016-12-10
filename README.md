@@ -1,2 +1,3 @@
 # ghdl-experiment
-first VHDL experiments
+first VHDL experiments with "Technische Informatik" Gunter Kemnitz
+and "NANDLAND" on Youtube.
