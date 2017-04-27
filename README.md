@@ -1,3 +1,8 @@
 # ghdl-experiment
-first VHDL experiments with "Technische Informatik" Gunter Kemnitz
-and "NANDLAND" on Youtube.
+first VHDL experiments:
+
+"Technische Informatik Band 2 Entwurf digitaler Schaltungen" by Guenter Kemnitz
+
+"NANDLAND" on Youtube.
+
+Introduction into Vivado Design (FlipFlop, Testbench, Top File, Package)
