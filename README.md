@@ -1,8 +1,7 @@
-# ghdl-experiment
-first VHDL experiments:
+# vhdl-experiment
 
 "Technische Informatik Band 2 Entwurf digitaler Schaltungen" by Guenter Kemnitz
 
-"NANDLAND" on Youtube.
+youtube.com/nandland
 
-Introduction into Vivado Design (FlipFlop, Testbench, Top File, Package)
+Vivado 2016.4 on Nexys4 DDR Artix-7
